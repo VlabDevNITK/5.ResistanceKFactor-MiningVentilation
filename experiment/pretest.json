@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Resistance of the mine gallery do not depend on",
+      "answers": {
+        "a": "Velocity of air",
+        "b": "Coefficient of friction",
+        "c": "Area of cross section of gallery",
+        "d": "Rubbing surface of gallery"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Area of rubbing surface of mine gallery is determined by",
+      "answers": {
+        "a": "Perimeter of cross section ÷ Length of the gallery",
+        "b": "Perimeter of cross section x Length of the gallery",
+        "c": "π x Length of the gallery x Diameter of cross section",
+        "d": "Both b & c"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Frictional pressure drop between two points in a ventilation duct depends on",
+      "answers": {
+        "a": "Velocity of air",
+        "b": "Coefficient of friction",
+        "c": "Area of cross section of gallery",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Frictional pressure drop across two points is equal to",
+      "answers": {
+        "a": "Static pressure difference between two points",
+        "b": "Total pressure difference between two points",
+        "c": "Velocity pressure difference between two points",
+        "d": "Average pressure difference between two points"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "If we smoothen the rubbing surface then resistance of the duct________________",
+      "answers": {
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Do not change",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    }
+  ]
+}
