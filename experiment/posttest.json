@@ -2,38 +2,123 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "If resistance of the mine gallery is kept constant and P is pressure difference and Q is quantity of air flow, then which of the following is true?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "P ∝ Q",
+        "b": "P ∝ 1/Q",
+        "c": "P ∝ Q<sup>2</sup>",
+        "d": "P ∝ Q<sup>3</sup>"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "What is the unit of Atinkson's friction factor?",
+      "answers": {
+        "a": "Ns<sup>2</sup>m<sup>4</sup>",
+        "b": "Ns<sup>2</sup>/m<sup>8</sup>",
+        "c": "Kg/m<sup>3</sup>",
+        "d": "Both a & c"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Resistance of the mine R varies with area of cross section A in",
+      "answers": {
+        "a": "R∝A<sup>2</sup>",
+        "b": "R∝1/A<sup>2</sup>",
+        "c": "R∝A<sup>3</sup>",
+        "d": "R∝1/A<sup>3</sup>"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Coefficient of friction of airways depend on",
+      "answers": {
+        "a": "Nature of the roughness of the roadways",
+        "b": "Type of rubbing surface",
+        "c": "Resistance of the roadway",
+        "d": "All of them"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Resistance coefficient depend on",
+      "answers": {
+        "a": "Nature of the roughness of the roadways",
+        "b": "Type of rubbing surface",
+        "c": "Resistance of the roadway",
+        "d": "All of them"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "If air density is assumed to be constant, Darcy Weisbach resistance coefficient (λ) varies with Atinkson's friction factor (K) as",
+      "answers": {
+        "a": "K∝1/λ",
+        "b": "K∝λ",
+        "c": "K∝1/λ<sup>2</sup>",
+        "d": "K∝λ<sup>2</sup>"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "1 Weisbach is equal to",
+      "answers": {
+        "a": "1 Kilomurg",
+        "b": "9.8 Ns<sup>2</sup>/m<sup>8</sup>",
+        "c": "164 Atkinsons",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
     }
   ]
 }
